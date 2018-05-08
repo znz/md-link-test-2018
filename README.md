@@ -1,5 +1,7 @@
 # Markdown link test
 
+source: <https://github.com/znz/md-link-test-2018>
+
 ## links in current ruby's README.md
 
 - [win32/README.win32](win32/README.win32)
